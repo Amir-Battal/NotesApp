@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/NotesApp/static/css/main.af622d47.css",
+    "main.js": "/NotesApp/static/js/main.184f6090.js",
+    "static/media/hsoub-logo.png": "/NotesApp/static/media/hsoub-logo.d7750077155f37adab72.png",
+    "index.html": "/NotesApp/index.html",
+    "main.af622d47.css.map": "/NotesApp/static/css/main.af622d47.css.map",
+    "main.184f6090.js.map": "/NotesApp/static/js/main.184f6090.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af622d47.css",
+    "static/js/main.184f6090.js"
+  ]
+}
